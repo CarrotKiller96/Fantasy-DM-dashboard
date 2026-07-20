@@ -1,6 +1,6 @@
 # Fantasy-DM-dashboard
 
-ffline Dungeon Master tool written in HTML, CSS and JavaScript.
+Offline Dungeon Master tool written in HTML, CSS and JavaScript.
 
 Fantasy DM Dashboard is a free, offline campaign management tool created for tabletop role-playing game masters. 
 Campaign data is saved locally in JSON files. 
